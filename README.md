@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Doaa Ashraf 
+- 👋 Hi, I’m @Doaa Ashraf Taha
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning web development
 
