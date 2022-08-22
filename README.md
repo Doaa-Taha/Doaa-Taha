@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Doaa Ashraf Taha
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning web development
+- 👋 Hi, I’m @Doaa Ashraf Taha.
+- 👀 I’m interested in coding.
+- 🌱 I’m currently learning web development.
+- fun fact about me .. I'm a pharmacist but I want to be a web developer.
 
 
 
