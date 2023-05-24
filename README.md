@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Doaa.
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning web development.
+- 🌱 I’m currently learning web development and mobile applications using react and react native.
 
 
 
